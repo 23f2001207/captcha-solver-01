@@ -1,5 +1,5 @@
 # Task App
 
-Brief: Create a simple app that displays Hello World.
+Brief: This app should include a sample image attachment.
 
 This app is auto-generated.
